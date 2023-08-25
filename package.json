@@ -1,0 +1,22 @@
+{
+  "name": "codesmithy.www",
+  "version": "1.0.0",
+  "description": "The main corporate website for Code Smithy Ltd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pcaldredbann/codesmithy.www.git"
+  },
+  "keywords": [
+    "codesmithy"
+  ],
+  "author": "Paul Aldred-Bann",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pcaldredbann/codesmithy.www/issues"
+  },
+  "homepage": "https://github.com/pcaldredbann/codesmithy.www#readme"
+}
